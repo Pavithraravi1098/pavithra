@@ -1,0 +1,44 @@
+/*-----------------------Map------------------*/
+/*-----------------------PdfViewer------------------*/
+/*-----------------------End PdfViewer------------------*/
+/*-----------------------OLAP Definition-----------------*/
+/*-----------------------OLAP Definition End-----------------*/
+/*----------------------Reportviewer Definition start------------------*/
+/*----------------------Reportviewer Definition End------------------*/
+/*-----------------------SymbolPalette Definition-----------------*/
+/*-----------------------Diagram Definition-----------------*/
+/*-----------------------Datepicker Definition-----------------*/
+/*-----------------------Bootstrap support-----------------*/
+/*----------------------Ribbon Definition-----------------------*/
+/*----------------------Ribbon End-----------------------*/
+/*----------------------Kanban Definition-----------------------*/
+/*----------------------Kanban End-----------------------*/
+/*----------------------Spreadsheet Definition-----------------------*/
+/*----------------------Spreadsheet End-----------------------*/
+/*----------------------rangeScrollbar Start------------------*/
+/*----------------------rangeScrollbar End--------------------*/
+/*----------------------Office 365 theme-----------------------*/
+/*----------------------High-Contrast-01 & High-Contrast-02 theme-----------------------*/
+/*----------------------material theme-----------------------*/
+/*--------------- common ----------------- */
+/*---------------high-contrast ------*/
+/*---------------- Office-365 ----------------*/
+/*------------------ material theme ---------------------*/
+/*-----------------------HeatMap Definition-----------------*/
+/* Common style */
+
+.e-content-area {
+  background-color: white;
+  color: #111111;
+  border-color: #c8c8c8;
+  font-family: Segoe UI;
+}
+/*------------SpellCheck themes -------------*/
+
+.e-spellcheckparent .e-errorword {
+  color: red;
+}
+.e-spellcheckparent .e-sentence {
+  border-color: #c8c8c8;
+  background-color: white;
+}

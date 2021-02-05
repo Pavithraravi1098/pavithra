@@ -1,0 +1,137 @@
+/*-----------------------Map------------------*/
+/*-----------------------PdfViewer------------------*/
+/*-----------------------End PdfViewer------------------*/
+/*-----------------------OLAP Definition-----------------*/
+/*-----------------------OLAP Definition End-----------------*/
+/*----------------------Reportviewer Definition start------------------*/
+/*----------------------Reportviewer Definition End------------------*/
+/*-----------------------SymbolPalette Definition-----------------*/
+/*-----------------------Diagram Definition-----------------*/
+/*-----------------------Datepicker Definition-----------------*/
+/*-----------------------Bootstrap support-----------------*/
+/*----------------------Ribbon Definition-----------------------*/
+/*----------------------Ribbon End-----------------------*/
+/*----------------------Kanban Definition-----------------------*/
+/*----------------------Kanban End-----------------------*/
+/*----------------------Spreadsheet Definition-----------------------*/
+/*----------------------Spreadsheet End-----------------------*/
+/*----------------------rangeScrollbar Start------------------*/
+/*----------------------rangeScrollbar End--------------------*/
+/*----------------------Office 365 theme-----------------------*/
+/*----------------------High-Contrast-01 & High-Contrast-02 theme-----------------------*/
+/*----------------------material theme-----------------------*/
+/*--------------- common ----------------- */
+/*---------------high-contrast ------*/
+/*---------------- Office-365 ----------------*/
+/*------------------ material theme ---------------------*/
+/*-----------------------HeatMap Definition-----------------*/
+/* Common style */
+
+.e-content-area {
+  background-color: white;
+  color: #111111;
+  border-color: #c8c8c8;
+  font-family: Segoe UI;
+}
+/*------------------------------------- autocomplete -------------------------------------------*/
+
+.e-atc .e-in-wrap,
+.e-atc .e-input,
+.e-atc-popup,
+.e-atc .e-options {
+  background-color: white;
+  border-color: #c8c8c8;
+  color: #333333;
+  font-family: Segoe UI;
+  font-size: 14px;
+  font-weight: normal;
+}
+.e-atc .e-options.e-active {
+  color: white;
+  border-color: #c8c8c8;
+}
+.e-atc .e-options.e-active {
+  background: #179bd7;
+}
+.e-atc .e-options.e-active:hover,
+.e-atc .e-options:hover {
+  color: #282827;
+  border-color: #c8c8c8;
+}
+.e-atc .e-options.e-active:hover,
+.e-atc .e-options:hover {
+  background: #86cbea;
+}
+.e-atc .e-boxes {
+  background-color: white;
+}
+.e-atc.e-focus .e-in-wrap {
+  box-shadow: 0 0 2px #cbcbcb;
+}
+.e-atc-popup .e-category {
+  border-bottom: 1px solid #c8c8c8;
+}
+.e-atc-popup .e-hover,
+.e-atc-popup .e-content .e-atc-trbgcolor.e-hover {
+  color: #282827;
+  border-color: #86cbea;
+}
+.e-atc-popup .e-hover,
+.e-atc-popup .e-content .e-atc-trbgcolor.e-hover {
+  background: #86cbea;
+}
+.e-atc .e-select:hover,
+.e-atc.e-rtl .e-select:hover {
+  color: #282827;
+  border-color: #c8c8c8;
+}
+.e-atc .e-select:hover,
+.e-atc.e-rtl .e-select:hover {
+  background: #86cbea;
+}
+.e-atc .e-select,
+.e-atc.e-rtl .e-select,
+.e-atc .e-select.e-disable:hover {
+  border-color: #c8c8c8;
+  color: #686969;
+}
+.e-atc .e-select,
+.e-atc.e-rtl .e-select,
+.e-atc .e-select.e-disable:hover {
+  background: #ececec;
+}
+.e-atc .e-input.e-load {
+  background-image: url(images/ajax-loader.gif);
+}
+::-webkit-input-placeholder {
+  color: #333333;
+}
+:-ms-input-placeholder {
+  color: #333333;
+}
+::-moz-placeholder {
+  color: #333333;
+}
+:-moz-placeholder {
+  color: #333333;
+}
+.e-atc-popup .e-atc-tdbottom,
+.e-atc-popup div.e-atc-tableHeader {
+  border-bottom: 1px solid #c8c8c8;
+}
+.e-atc-popup .e-atc-tdright,
+.e-atc-popup .e-atc-tableHeaderScroll .e-atc-tableHeaderBorder,
+.e-atc-popup div .e-atc-thright {
+  border-right: 1px solid #c8c8c8;
+}
+.e-atc-popup .e-atc-tdleft,
+.e-atc-popup .e-atc-tableHeaderRTL .e-atc-tableHeaderBorder,
+.e-atc-popup div .e-atc-thleft {
+  border-left: 1px solid #c8c8c8;
+}
+.e-atc-popup .e-atc-tableHeaderContent th {
+  background: #f7f7f7;
+}
+.e-atc-popup .e-content .e-atc-trbgcolor {
+  background: #f7f7f7;
+}
